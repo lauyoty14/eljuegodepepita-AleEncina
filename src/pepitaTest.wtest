@@ -14,7 +14,7 @@ describe "Tests de Pepita" {
 		assert.equals(89, pepita.energia())
 	}
 
-
+	
 
 }
 
